@@ -1,0 +1,4 @@
+Running: xsim.dir/circlesim_behav/xsimk.exe -simmode gui -wdb circlesim_behav.wdb -simrunnum 0 -socket 52791
+Design successfully loaded
+Design Loading Memory Usage: 5860 KB (Peak: 5860 KB)
+Design Loading CPU Usage: 109 ms
